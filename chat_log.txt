@@ -1,0 +1,308 @@
+[13:30:18] Bot2: Hello everyone!
+[13:30:18] Bot1: Don't forget the deadline!
+[13:30:19] Bot3: Java threads are awesome.
+[13:30:20] Bot1: Multithreading makes apps dynamic!
+[13:30:21] Bot2: Working on a project right now.
+[13:30:21] Bot3: Hello everyone!
+[13:30:22] Bot1: Hello everyone!
+[13:30:23] Bot3: How’s your day going?
+[13:30:23] Bot2: Multithreading makes apps dynamic!
+[13:30:24] Bot1: Java threads are awesome.
+[13:30:26] Bot3: How’s your day going?
+[13:30:26] Bot2: Working on a project right now.
+[13:30:26] Bot1: Anyone up for a study session?
+[13:30:27] Bot2: How’s your day going?
+[13:30:28] Bot2: Java threads are awesome.
+[13:30:28] Bot3: Don't forget the deadline!
+[13:30:28] Bot1: How’s your day going?
+[13:30:30] Bot1: Hello everyone!
+[13:30:30] Bot2: Don't forget the deadline!
+[13:30:31] Bot3: How’s your day going?
+[13:30:32] Bot1: Java threads are awesome.
+[13:30:33] Bot2: Multithreading makes apps dynamic!
+[13:30:34] Bot3: Java threads are awesome.
+[13:35:59] Bot3: Don't forget the deadline!
+[13:36:00] Bot1: How’s your day going?
+[13:36:01] Bot2: Hello everyone!
+[13:36:01] Bot1: Hello everyone!
+[13:36:02] Bot2: Hello everyone!
+[13:36:02] Bot3: Don't forget the deadline!
+[13:36:02] Bot1: Let's meet after class.
+[13:36:03] Bot2: Working on a project right now.
+[13:36:03] Bot1: Multithreading makes apps dynamic!
+[13:38:16] Bot1: Let's meet after class.
+[13:38:17] Bot3: Anyone up for a study session?
+[13:38:18] Bot2: Hello everyone!
+[13:38:19] Bot1: Multithreading makes apps dynamic!
+[13:38:19] Bot2: Let's meet after class.
+[13:38:19] Bot3: Anyone up for a study session?
+[13:38:20] Bot2: How’s your day going?
+[13:38:22] Bot1: Let's meet after class.
+[13:38:22] Bot3: Anyone up for a study session?
+[13:38:22] Bot2: Don't forget the deadline!
+[13:39:15] Bot2: Anyone up for a study session?
+[13:39:16] Bot3: Let's meet after class.
+[13:39:16] Bot1: How’s your day going?
+[13:39:17] Bot2: Don't forget the deadline!
+[13:39:17] Bot3: Multithreading makes apps dynamic!
+[13:39:19] Bot1: How’s your day going?
+[13:39:19] Bot3: Hello everyone!
+[13:39:20] Bot2: Anyone up for a study session?
+[13:39:20] Bot3: How’s your day going?
+[13:39:20] Bot1: Java threads are awesome.
+[13:39:21] Bot2: Multithreading makes apps dynamic!
+[13:39:22] Bot3: Let's meet after class.
+[13:39:23] Bot1: Anyone up for a study session?
+[13:39:23] Bot2: Java threads are awesome.
+[13:39:24] Bot3: Working on a project right now.
+[13:39:25] Bot2: Hello everyone!
+[13:39:25] You: Hi
+[13:39:25] Bot1: Working on a project right now.
+[13:39:27] Bot3: Don't forget the deadline!
+[13:39:27] Bot2: How’s your day going?
+[13:39:27] Bot1: Hello everyone!
+[13:39:28] Bot3: Let's meet after class.
+[13:39:28] Bot2: Java threads are awesome.
+[13:39:29] Bot1: Multithreading makes apps dynamic!
+[13:40:21] Bot1: Don't forget the deadline!
+[13:42:12] Bot1: Don't forget the deadline!
+[13:42:12] Bot3: Multithreading makes apps dynamic!
+[13:42:13] Bot2: Hello everyone!
+[13:42:14] Bot1: Let's meet after class.
+[13:42:15] Bot3: Hello everyone!
+[13:42:16] Bot2: Multithreading makes apps dynamic!
+[13:42:16] Bot1: Java threads are awesome.
+[13:42:17] Bot2: Anyone up for a study session?
+[13:42:17] Bot3: Multithreading makes apps dynamic!
+[13:42:18] Bot1: Hello everyone!
+[13:42:19] Bot2: Working on a project right now.
+[13:42:27] Bot3: How’s your day going?
+[13:43:10] Bot2: Hello everyone!
+[13:43:10] Bot1: Anyone up for a study session?
+[13:43:11] Bot3: Working on a project right now.
+[13:43:12] Bot3: Multithreading makes apps dynamic!
+[13:43:12] Bot2: Let's meet after class.
+[13:43:12] Bot1: Java threads are awesome.
+[13:43:13] Bot2: Anyone up for a study session?
+[13:43:13] Bot3: Don't forget the deadline!
+[13:43:15] Bot1: Multithreading makes apps dynamic!
+[13:43:15] Bot2: Java threads are awesome.
+[13:43:16] Bot3: Don't forget the deadline!
+[13:43:16] Bot1: Multithreading makes apps dynamic!
+[13:43:17] You: Hi
+[13:43:17] Bot1: Hello everyone!
+[13:43:18] Bot2: Java threads are awesome.
+[13:43:18] Bot3: How’s your day going?
+[13:43:20] Bot1: How’s your day going?
+[13:43:20] Bot2: Anyone up for a study session?
+[13:43:21] Bot3: How’s your day going?
+[13:43:21] You: Hello
+[13:43:22] Bot2: Hello everyone!
+[13:43:22] Bot1: Hello everyone!
+[13:43:23] Bot3: Multithreading makes apps dynamic!
+[13:43:24] Bot2: Working on a project right now.
+[13:43:25] Bot1: How’s your day going?
+[13:43:25] Bot3: Don't forget the deadline!
+[13:48:59] Charlie: Anyone up for a study session?
+[13:48:59] Bob: Don't forget the deadline!
+[13:48:59] Alice: Java threads are awesome.
+[13:49:00] Charlie: How’s your day going?
+[13:49:01] Bob: Java threads are awesome.
+[13:49:02] Alice: Hello everyone!
+[13:49:02] Charlie: Java threads are awesome.
+[13:49:03] Charlie: Multithreading makes apps dynamic!
+[13:49:04] Bob: Hello everyone!
+[13:49:05] Alice: Don't forget the deadline!
+[13:49:06] Charlie: Java threads are awesome.
+[13:49:46] Aira: Let's meet after class.
+[13:49:46] Aila: Working on a project right now.
+[13:49:47] Aira: Hello everyone!
+[13:49:48] Aila: Let's meet after class.
+[13:49:49] Aira: Multithreading makes apps dynamic!
+[13:49:50] Aila: Hello everyone!
+[13:49:51] Aira: Let's meet after class.
+[13:49:52] Aila: Java threads are awesome.
+[13:53:16] Aira: kaantok naman
+[13:53:18] Aila: sinusumpa ko na yan siya
+[13:53:18] Aira: nanghula siya ng grade
+[13:53:19] Aira: nanghula siya ng grade
+[13:53:20] Aila: sinusumpa ko na yan siya
+[13:53:22] Aila: naka ai nanaman assignment amp
+[13:53:22] Aira: kaantok naman
+[13:53:24] Aila: order mcdo guys
+[13:53:25] Aira: ANLALA
+[13:53:26] Aila: naka ai nanaman assignment amp
+[13:53:28] Aila: nanghula siya ng grade
+[13:53:28] Aira: order mcdo guys
+[13:53:30] Aila: nanghula siya ng grade
+[13:53:30] Aira: TANGINA NI MONA!
+[13:53:31] Aira: nanghula siya ng grade
+[13:53:31] Aila: kaantok naman
+[13:55:12] You: lala guys
+[13:56:07] Aila: TANGINA NI MONA!
+[13:56:08] Aira: nanghula siya ng grade
+[13:56:08] Aila: sinusumpa ko na yan siya
+[13:56:10] Aila: order mcdo guys
+[13:56:10] Aira: sinusumpa ko na yan siya
+[13:56:13] Aila: order mcdo guys
+[13:56:13] Aira: TANGINA NI MONA!
+[13:57:36] You: anlala guys
+[13:57:39] Aira: naka ai nanaman assignment amp
+[13:57:39] Aila: order mcdo guys
+[13:57:40] Aira: sinusumpa ko na yan siya
+[13:57:40] Aila: naka ai nanaman assignment amp
+[13:57:42] Aira: order mcdo guys
+[13:57:42] Aila: kaantok naman
+[13:57:43] Aira: kaantok naman
+[13:57:45] Aila: kaantok naman
+[13:57:45] Aira: sinusumpa ko na yan siya
+[13:57:46] Aira: nanghula siya ng grade
+[13:57:47] Aila: naka ai nanaman assignment amp
+[13:58:09] You: anlals guys
+[13:58:43] You: anlala guys
+[13:58:45] Aila: HAHAHAHAHAHA
+[13:58:45] Aira: ANLALA
+[13:58:47] Aila: naka ai nanaman assignment amp
+[13:58:47] Aira: order mcdo guys
+[13:58:48] Aira: sinusumpa ko na yan siya
+[13:58:49] Aila: naka ai nanaman assignment amp
+[13:58:50] Aira: HAHAHAHAHAHA
+[13:58:51] Aira: kaantok naman
+[13:58:52] Aila: TANGINA NI MONA!
+[13:58:54] Aira: ANLALA
+[13:58:54] Aila: naka ai nanaman assignment amp
+[13:58:56] Aila: nanghula siya ng grade
+[13:58:56] Aira: ANLALA
+[13:58:59] Aila: kaantok naman
+[13:58:59] Aira: nanghula siya ng grade
+[13:59:01] Aila: HAHAHAHAHAHA
+[13:59:24] You: anlalaguys
+[13:59:25] Aira: order mcdo guys
+[13:59:25] Aila: ANLALA
+[13:59:27] Aila: order mcdo guys
+[13:59:28] Aira: nanghula siya ng grade
+[13:59:29] Aila: TANGINA NI MONA!
+[13:59:30] Aila: TANGINA NI MONA!
+[13:59:31] Aira: naka ai nanaman assignment amp
+[13:59:32] Aira: TANGINA NI MONA!
+[13:59:33] Aila: naka ai nanaman assignment amp
+[13:59:34] Aila: ANLALA
+[13:59:35] Aira: sinusumpa ko na yan siya
+[14:00:04] You: lala nila
+[14:00:06] Aila: sinusumpa ko na yan siya
+[14:00:06] Aira: TANGINA NI MONA!
+[14:00:07] Aira: ANLALA
+[14:00:08] Aila: ANLALA
+[14:00:10] Aira: sinusumpa ko na yan siya
+[14:00:11] Aila: TANGINA NI MONA!
+[14:00:11] Aira: order mcdo
+[14:00:12] Aira: kaantok naman
+[14:00:13] Aila: kaantok naman
+[14:00:14] Aira: order mcdo
+[14:00:24] You: lals guys
+[14:00:25] Aira: order mcdo
+[14:00:26] Aila: order mcdo
+[14:00:27] Aila: naka ai nanaman assignment amp
+[14:00:27] Aira: nanghula siya ng grade
+[14:00:38] You: taena lala
+[14:00:39] Aila: sinusumpa ko na yan siya
+[14:00:40] Aila: ANLALA
+[14:00:41] Aira: ANLALA
+[14:00:42] Aila: kaantok naman
+[14:00:43] Aila: nanghula siya ng grade
+[14:00:43] Aira: nanghula siya ng grade
+[14:00:45] Aila: nanghula siya ng grade
+[14:00:45] Aira: naka ai nanaman assignment amp
+[14:00:48] Aira: sinusumpa ko na yan siya
+[14:00:48] Aila: order mcdo
+[14:01:18] You: lala ila
+[14:01:20] Aira: sinusumpa ko na yan siya
+[14:01:21] Aila: order mcdo
+[14:01:22] Aira: naka ai nanaman assignment amp
+[14:01:24] Aila: naka ai nanaman assignment amp
+[14:01:24] Aira: HAHAHAHAHAHA
+[14:01:26] Aila: ANLALA
+[14:01:27] Aira: TANGINA NI MONA!
+[14:01:27] You: HAHAHAH
+[14:01:28] Aira: HAHAHAHAHAHA
+[14:01:28] Aila: nanghula siya ng grade
+[14:01:28] Aira: nanghula siya ng grade
+[14:01:29] Aila: HAHAHAHAHAHA
+[14:01:30] Aila: HAHAHAHAHAHA
+[14:01:30] Aila: kaantok naman
+[14:01:31] Aira: HAHAHAHAHAHA
+[14:01:31] Aira: ANLALA
+[14:01:32] Aila: ANLALA
+[14:01:32] Aira: kaantok naman
+[14:01:33] Aila: HAHAHAHAHAHA
+[14:01:34] Aila: ANLALA
+[14:01:34] Aira: sinusumpa ko na yan siya
+[14:01:34] Aila: ANLALA
+[14:01:35] Aira: TANGINA NI MONA!
+[14:01:36] Aira: ANLALA
+[14:01:36] Aira: TANGINA NI MONA!
+[14:01:37] Aila: TANGINA NI MONA!
+[14:01:37] Aila: HAHAHAHAHAHA
+[14:01:45] Aira: ANLALA
+[14:01:46] Aila: naka ai nanaman assignment amp
+[14:01:47] Aira: ANLALA
+[14:01:47] Aila: naka ai nanaman assignment amp
+[14:01:49] Aira: HAHAHAHAHAHA
+[14:01:49] Aila: HAHAHAHAHAHA
+[14:01:50] Aira: HAHAHAHAHAHA
+[14:01:55] Aila: TANGINA NI MONA!
+[14:01:56] Aira: ANLALA
+[14:02:01] Aira: ANLALA
+[14:02:02] Aila: HAHAHAHAHAHA
+[14:02:03] Aira: order mcdo
+[14:02:04] Aila: order mcdo
+[14:02:05] Aira: HAHAHAHAHAHA
+[14:02:07] Aila: naka ai nanaman assignment amp
+[14:02:07] Aira: HAHAHAHAHAHA
+[14:02:08] Aila: TANGINA NI MONA!
+[14:02:08] Aira: sinusumpa ko na yan siya
+[14:02:10] Aira: order mcdo
+[14:02:11] Aila: sinusumpa ko na yan siya
+[14:02:24] You: HAY
+[14:02:26] Aila: sinusumpa ko na yan siya
+[14:02:26] Aira: order mcdo
+[14:02:28] Aila: TANGINA NI MONA!
+[14:02:28] Aira: HAHAHAHAHAHA
+[14:02:29] Aila: nanghula siya ng grade
+[14:02:31] Aira: kaantok naman
+[14:02:32] Aila: order mcdo
+[14:02:33] Aira: nanghula siya ng grade
+[14:02:34] Aila: sinusumpa ko na yan siya
+[14:02:35] Aira: kaantok naman
+[14:02:36] Aila: naka ai nanaman assignment amp
+[14:02:37] Aila: TANGINA NI MONA!
+[14:02:38] Aira: HAHAHAHAHAHA
+[14:02:39] Aila: TANGINA NI MONA!
+[14:02:40] Aira: HAHAHAHAHAHA
+[14:02:43] Aira: order mcdo
+[14:03:41] You: hayss
+[14:03:44] Aira: order mcdo
+[14:03:44] Aila: naka ai nanaman assignment amp
+[14:03:46] Aira: sinusumpa ko na yan siya
+[14:03:47] Aila: TANGINA NI MONA!
+[14:03:48] Aira: ANLALA
+[14:03:48] You: HAHAHAHAA
+[14:03:49] Aila: nanghula siya ng grade
+[14:03:49] Aira: naka ai nanaman assignment amp
+[14:03:50] Aila: sinusumpa ko na yan siya
+[14:03:51] Aila: naka ai nanaman assignment amp
+[14:03:51] Aira: TANGINA NI MONA!
+[14:03:52] Aira: order mcdo
+[14:03:53] Aila: sinusumpa ko na yan siya
+[14:03:53] Aira: sinusumpa ko na yan siya
+[14:03:53] Aila: kaantok naman
+[14:03:53] Aira: ANLALA
+[14:03:54] Aila: HAHAHAHAHAHA
+[14:03:54] Aira: order mcdo
+[14:03:55] Aira: order mcdo
+[14:03:55] Aila: ANLALA
+[14:03:56] Aira: nanghula siya ng grade
+[14:03:56] Aila: HAHAHAHAHAHA
+[14:03:57] Aira: HAHAHAHAHAHA
+[14:03:57] Aila: naka ai nanaman assignment amp
+[14:03:58] Aila: sinusumpa ko na yan siya
