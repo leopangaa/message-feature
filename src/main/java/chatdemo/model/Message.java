@@ -34,6 +34,6 @@ public class Message {
 
     @Override
     public String toString() {
-        return "[" + getTime() + "] " + sender + ": " + text;
+        return "[" + getTime() + "] " + sender + ":  " + text;
     }
 }
